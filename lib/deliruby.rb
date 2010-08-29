@@ -1,4 +1,5 @@
 require 'httparty'
+require 'httparty_icebox'
 require 'date'
 require 'digest/md5'
 module Deliruby
@@ -37,6 +38,9 @@ module Deliruby
         include HTTParty
         format :xml
         base_uri "http://feeds.delicious.com/v2/xml"
+        include HTTParty::Icebox
+        #cache :store => 'memory', :timeout => 300
+        cache :store => 'file', :timeout => 300, :location => '/tmp/'
         
         #Base method for all the calls to the delicious api
         #Params:
@@ -115,7 +119,10 @@ module Deliruby
         include HTTParty
         format :xml
         base_uri "http://feeds.delicious.com/v2/xml"
-        
+        include HTTParty::Icebox
+        #cache :store => 'memory', :timeout => 300
+        cache :store => 'file', :timeout => 300, :location => '/tmp/'
+
         #Get a the site alerts
         #Params
         #+url+:: the url to retrieve
