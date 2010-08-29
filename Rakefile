@@ -5,12 +5,13 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "deliruby"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
-    gem.email = "luis.borjas@escolarea.com"
+    gem.summary = %Q{Ruby wrapper for the delicious.com public rss feeds}
+    gem.description = %Q{Ruby wrapper for the delicious.com public rss feeds}
+    gem.email = "me@lfborjas.com"
     gem.homepage = "http://github.com/lfborjas/deliruby"
     gem.authors = ["lfborjas"]
     gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
+    gem.add_dependency "httparty", "0.6.1"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new

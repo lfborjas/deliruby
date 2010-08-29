@@ -1,6 +1,19 @@
 = deliruby
 
-Description goes here.
+Deliruby is a simple ruby wrapper for the {delicious rss feeds}[http://www.delicious.com/help/json] (not the {API}[http://www.delicious.com/help/api]), so you can use that info for your projects without dealing with xml or json.
+
+It uses {httparty}[http://github.com/jnunemaker/httparty] and does caching with the {httparty_icebox}[http://gist.github.com/209605] for extra code readability!
+
+==Installation
+Easy as pi, just run
+    sudo gem install deliruby
+
+==Usage
+    require 'deliruby'
+    #all methods return the same kind of data
+    Deliruby.popular.each do |bookmark|
+        puts "#{bookmark['creator']} marked #{bookmark['url']} with the tags #{bookmark['tags']} on #{bookmark['date']}"
+    end
 
 == Note on Patches/Pull Requests
  
