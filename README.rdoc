@@ -9,14 +9,29 @@ Easy as pi, just run
     sudo gem install deliruby
 
 ==Usage
+
+The module Deliruby has two classes defined: +Bookmarks+ and +PublicInfo+
+
+===Bookmarks
 Every method returns an array of instances of the class DeliciousBookmark, which has a +to_hash+ method for your
 convenience. If any of the attributes wasn't found in the feed, it's set to a sensible default (+""+ for strings, +[]+ for arrays and +nil+ for the published date).
 
     require 'deliruby'
     #all methods return the same kind of data
-    Deliruby.popular.each do |bookmark|
+    Deliruby::Bookmarks.popular.each do |bookmark|
         puts "#{bookmark.creator} marked #{bookmark.url} with the tags #{bookmark.url} on #{bookmark.date.to_s}"
     end
+
+===PublicInfo
+
+Every method returns either an array, an array  of hashes or a hash:
+
+[alerts]   An array for the system alerts for delicious
+[userinfo] A hash of the public user info (bookmark count, network members and network fans)
+[tags]  An array of hashes for every tag associated with the number of times it has been used by a user
+[network] An array of hashes with the username and profile of every user in the specified user network
+[network_fans] An array of hashes with the username and profile of every *fan* in the specified user network
+[urlinfo]   The summary information for a url: a hash with the md5 hash, link, title, times bookmarked and top tags applied
 
 
 == Note on Patches/Pull Requests
