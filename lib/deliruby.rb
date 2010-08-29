@@ -1,5 +1,6 @@
 require 'httparty'
 require 'httparty_icebox'
+require 'date'
 #Abstract representation of a delicious bookmark item
 class DeliciousBookmark
     #The bookmarked url
@@ -17,7 +18,7 @@ class DeliciousBookmark
         @url = url 
         @tags = tags || []
         @title = title || ""
-        @published_on = published_on
+        @published_on = published_on ? DateTime.strptime(published_on, "%a, %d %b %Y %H:%M:%S %Z") : nil
         @creator = creator || ""
     end
     

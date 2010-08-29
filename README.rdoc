@@ -9,11 +9,15 @@ Easy as pi, just run
     sudo gem install deliruby
 
 ==Usage
+Every method returns an array of instances of the class DeliciousBookmark, which has a +to_hash+ method for your
+convenience. If any of the attributes wasn't found in the feed, it's set to a sensible default (+""+ for strings, +[]+ for arrays and +nil+ for the published date).
+
     require 'deliruby'
     #all methods return the same kind of data
     Deliruby.popular.each do |bookmark|
-        puts "#{bookmark['creator']} marked #{bookmark['url']} with the tags #{bookmark['tags']} on #{bookmark['date']}"
+        puts "#{bookmark.creator} marked #{bookmark.url} with the tags #{bookmark.url} on #{bookmark.date.to_s}"
     end
+
 
 == Note on Patches/Pull Requests
  
