@@ -47,6 +47,7 @@ module Deliruby
         #+url+:: the sub-url to access
         def self.get_feed(url="/") 
             res = get(url)
+            raise "Communication error with delicious server: #{res.response['status']}" if res.response['status'] =~ /^[45]/
             bookmarks = []
             return [] unless res['rss']['channel'].has_key?('item')
             res['rss']['channel']['item'].each do |item|
@@ -128,6 +129,7 @@ module Deliruby
         #+url+:: the url to retrieve
         def self.alerts
             res = get("/alerts")
+            raise "Communication error with delicious server: #{res.response['status']}" if res.response['status'] =~ /^[45]/
             return [] unless res['rss']['channel'].has_key?('item')
             alerts = []
             res['rss']['channel']['item'].each do |item|
@@ -141,6 +143,7 @@ module Deliruby
         #+user+:: the user
         def self.user_info(user)
             res = get("/userinfo/#{user}")
+            raise "Communication error with delicious server: #{res.response['status']}" if res.response['status'] =~ /^[45]/
             return [] unless res['rss']['channel'].has_key?('item')
             info = {}
             res['rss']['channel']['item'].each do |item|
@@ -156,6 +159,7 @@ module Deliruby
         #
         def self.tags(user, tags=[])
             res = get("/tags/#{user}/#{tags.join('+')}")
+            raise "Communication error with delicious server: #{res.response['status']}" if res.response['status'] =~ /^[45]/
             return [] unless res['rss']['channel'].has_key?('item')
             info = []
             res['rss']['channel']['item'].each do |item|
@@ -169,6 +173,7 @@ module Deliruby
         #+user+:: the user to peruse
         def self.network(user)
             res = get("/networkmembers/#{user}")
+            raise "Communication error with delicious server: #{res.response['status']}" if res.response['status'] =~ /^[45]/
             return [] unless res['rss']['channel'].has_key?('item')
             members = []
             res['rss']['channel']['item'].each do |item|
@@ -182,6 +187,7 @@ module Deliruby
         #+user+:: the user to peruse
         def self.network_fans(user)
             res = get("/networkfans/#{user}")
+            raise "Communication error with delicious server: #{res.response['status']}" if res.response['status'] =~ /^[45]/
             return [] unless res['rss']['channel'].has_key?('item')
             members = []
             res['rss']['channel']['item'].each do |item|
