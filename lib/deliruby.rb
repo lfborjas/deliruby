@@ -52,7 +52,7 @@ module Deliruby
             return [] unless res['rss']['channel'].has_key?('item')
             res['rss']['channel']['item'].each do |item|
                 bookmarks.push DeliciousBookmark.new(item['link'], item['title'], item['pubDate'], item['dc:creator'],
-                                                     item['category'])
+                                                     item['category']) rescue next
             end
             return bookmarks
         end
@@ -133,7 +133,7 @@ module Deliruby
             return [] unless res['rss']['channel'].has_key?('item')
             alerts = []
             res['rss']['channel']['item'].each do |item|
-                alerts.push item
+                alerts.push item rescue next
             end
             return alerts
         end
@@ -147,7 +147,7 @@ module Deliruby
             return [] unless res['rss']['channel'].has_key?('item')
             info = {}
             res['rss']['channel']['item'].each do |item|
-                info[item['title']] = item['description']
+                info[item['title']] = item['description'] rescue next
             end
             return info
         end
@@ -163,7 +163,7 @@ module Deliruby
             return [] unless res['rss']['channel'].has_key?('item')
             info = []
             res['rss']['channel']['item'].each do |item|
-                info.push({item['title']=>item['description']})
+                info.push({item['title']=>item['description']}) rescue next
             end
             return info
         end
@@ -177,7 +177,7 @@ module Deliruby
             return [] unless res['rss']['channel'].has_key?('item')
             members = []
             res['rss']['channel']['item'].each do |item|
-                members.push({:user => item['title'], :profile=>item['link']})
+                members.push({:user => item['title'], :profile=>item['link']}) rescue next
             end
             return members
         end
@@ -191,15 +191,16 @@ module Deliruby
             return [] unless res['rss']['channel'].has_key?('item')
             members = []
             res['rss']['channel']['item'].each do |item|
-                members.push({:user => item['title'], :profile=>item['link']})
+                members.push({:user => item['title'], :profile=>item['link']}) rescue next
             end
             return members
         end
         
         #Return summary information for a given url
         def self.url(url)
-            return get("/urlinfo/#{Digest::MD5.hexdigest(url)}", 
-                        :format => :json, :base_uri => self.default_options[:base_uri].gsub('xml', 'json')).parsed_response[0]
+            #for some reason, the cache screws this one up
+            get_without_caching("/urlinfo/#{Digest::MD5.hexdigest(url)}",:format => :json, 
+                            :base_uri => self.default_options[:base_uri].gsub('xml', 'json')).parsed_response[0]
         end
 
         class << self   
