@@ -32,7 +32,7 @@ class DeliciousBookmark
     end
 end
 #Provides instance methods to access the public feeds of delicious.com, returning an array of Bookmark instances 
-class Deliruby
+class Bookmarks 
     include HTTParty
     include HTTParty::Icebox
     format :xml
@@ -50,7 +50,36 @@ class Deliruby
         end
         return bookmarks
     end
+
+    def self.recent
+        return self.get_feed('/recent')
+    end
+
+    def self.by_tags(tags=[])        
+        return self.get_feed("/tag/#{tags.join('+')}")
+    end
+
+    def self.popular(tag="")
+        return self.get_feed("/popular#{"/"+tag if tag}")
+    end
+
+    def self.for_user(user, tags=[])
+        return self.get_feed("/#{user}/#{tags.join('+')}")
+    end
+    def self.subscripted(user)
+        return self.get_feed("/subscriptions/#{user}")
+    end
+    def self.network(user, tags=[])
+        return self.get_feed("/network/#{user}/#{tags.join('+')}")
+    end
+    def self.for_url(url)
+        return self.get_feed("/url/#{Digest::MD5.hexdigest(url)}")
+    end
     class << self
-        alias :popular :get_feed
+        alias :hotlist :get_feed
+        alias :tagged :by_tags
+        alias :for :for_user
+        alias :for_network :network
+        alias :for_subscriptions :subscripted
     end
 end
