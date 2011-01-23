@@ -33,7 +33,7 @@ Every method returns either an array, an array  of hashes or a hash:
 [network_fans] An array of hashes with the username and profile of every *fan* in the specified user network
 [urlinfo]   The summary information for a url: a hash with the md5 hash, link, title, times bookmarked and top tags applied
 
-It tries to return sensible data: empty arrays or hashes if nothing is returned. In some cases, though, it might raise an exception of delicious responds with a 4** or 5** HTTP status code.
+It tries to return sensible data: empty arrays or hashes if nothing is returned. In some cases, though, it might raise an exception if delicious responds with a 4** or 5** HTTP status code.
 
 == Note on Patches/Pull Requests
  
