@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/">
+  <channel>
+    <title>Delicious/tag/django+python</title>
+    <link>http://www.delicious.com/tag/django+python</link>
+    <description>recent bookmarks tagged django python</description>
+    <atom:link rel="self" type="application/rss+xml" href="http://feeds.delicious.com/v2/xml/tag/django+python"/>
+    <item>
+      <title>Django | The Web framework for perfectionists with deadlines</title>
+      <pubDate>Sun, 23 Jan 2011 06:48:24 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/980ce09131008f964385d9fc6bf5c319#tetsuwo</guid>
+      <link>http://www.djangoproject.com/</link>
+      <dc:creator><![CDATA[tetsuwo]]></dc:creator>
+      <comments>http://www.delicious.com/url/980ce09131008f964385d9fc6bf5c319</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/980ce09131008f964385d9fc6bf5c319</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tetsuwo">tetsuwo's bookmarks</source>
+      <category domain="http://www.delicious.com/tetsuwo/">python</category>
+      <category domain="http://www.delicious.com/tetsuwo/">django</category>
+    </item>
+    <item>
+      <title>jespern / django-piston / wiki / Home – Bitbucket</title>
+      <pubDate>Sun, 23 Jan 2011 06:11:09 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/748ab2c29eb6948a92ab36504b57e230#clever.netman</guid>
+      <link>https://bitbucket.org/jespern/django-piston/wiki/Home</link>
+      <dc:creator><![CDATA[clever.netman]]></dc:creator>
+      <comments>http://www.delicious.com/url/748ab2c29eb6948a92ab36504b57e230</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/748ab2c29eb6948a92ab36504b57e230</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/clever.netman">clever.netman's bookmarks</source>
+      <category domain="http://www.delicious.com/clever.netman/">python</category>
+      <category domain="http://www.delicious.com/clever.netman/">api</category>
+      <category domain="http://www.delicious.com/clever.netman/">rest</category>
+      <category domain="http://www.delicious.com/clever.netman/">django</category>
+      <category domain="http://www.delicious.com/clever.netman/">framework</category>
+    </item>
+    <item>
+      <title>ep.io: Smart Python hosting - ep.io</title>
+      <pubDate>Sun, 23 Jan 2011 05:35:24 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/38aa045563f38f0e6d792b0093fb26c5#toozoofoo</guid>
+      <link>http://www.ep.io/</link>
+      <dc:creator><![CDATA[toozoofoo]]></dc:creator>
+      <comments>http://www.delicious.com/url/38aa045563f38f0e6d792b0093fb26c5</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/38aa045563f38f0e6d792b0093fb26c5</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/toozoofoo">toozoofoo's bookmarks</source>
+      <category domain="http://www.delicious.com/toozoofoo/">python</category>
+      <category domain="http://www.delicious.com/toozoofoo/">hosting</category>
+      <category domain="http://www.delicious.com/toozoofoo/">django</category>
+      <category domain="http://www.delicious.com/toozoofoo/">wsgi</category>
+      <category domain="http://www.delicious.com/toozoofoo/">deployment</category>
+    </item>
+    <item>
+      <title>sorl/sorl-thumbnail - GitHub</title>
+      <pubDate>Sun, 23 Jan 2011 05:29:22 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/c9ccd82699d0480e4c8e35b328444262#dougeven</guid>
+      <link>https://github.com/sorl/sorl-thumbnail</link>
+      <dc:creator><![CDATA[dougeven]]></dc:creator>
+      <comments>http://www.delicious.com/url/c9ccd82699d0480e4c8e35b328444262</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/c9ccd82699d0480e4c8e35b328444262</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/dougeven">dougeven's bookmarks</source>
+      <category domain="http://www.delicious.com/dougeven/">django</category>
+      <category domain="http://www.delicious.com/dougeven/">thumbnails</category>
+      <category domain="http://www.delicious.com/dougeven/">pil</category>
+      <category domain="http://www.delicious.com/dougeven/">python</category>
+    </item>
+    <item>
+      <title>DjangoやKayを使って新しいアプリを作る方法の自分用メモ - 西尾泰和のはてなダイアリー</title>
+      <pubDate>Sun, 23 Jan 2011 03:38:30 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/94e67dd7fdc0b5130addf374506c0311#uchikoshi22</guid>
+      <link>http://d.hatena.ne.jp/nishiohirokazu/20100407/1270648462</link>
+      <dc:creator><![CDATA[uchikoshi22]]></dc:creator>
+      <comments>http://www.delicious.com/url/94e67dd7fdc0b5130addf374506c0311</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/94e67dd7fdc0b5130addf374506c0311</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/uchikoshi22">uchikoshi22's bookmarks</source>
+      <category domain="http://www.delicious.com/uchikoshi22/">python</category>
+      <category domain="http://www.delicious.com/uchikoshi22/">kay</category>
+      <category domain="http://www.delicious.com/uchikoshi22/">gae</category>
+      <category domain="http://www.delicious.com/uchikoshi22/">django</category>
+    </item>
+    <item>
+      <title>Working with Python and RabbitMQ | Nathan Borror</title>
+      <pubDate>Sun, 23 Jan 2011 03:07:51 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/ee47f5c33ddf0ee9dace3599699ab89c#disterics</guid>
+      <link>http://nathanborror.com/posts/2009/may/20/working-django-and-rabbitmq/</link>
+      <dc:creator><![CDATA[disterics]]></dc:creator>
+      <comments>http://www.delicious.com/url/ee47f5c33ddf0ee9dace3599699ab89c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/ee47f5c33ddf0ee9dace3599699ab89c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/disterics">disterics's bookmarks</source>
+      <description>Working with Python and RabbitMQ</description>
+      <category domain="http://www.delicious.com/disterics/">rabbitmq</category>
+      <category domain="http://www.delicious.com/disterics/">django</category>
+      <category domain="http://www.delicious.com/disterics/">python</category>
+      <category domain="http://www.delicious.com/disterics/">amqp</category>
+    </item>
+    <item>
+      <title>Django by Example: Django Tutorials - Django by Example</title>
+      <pubDate>Sun, 23 Jan 2011 01:34:45 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/f7a348bd6e7aa82da90f4da80012a16b#outfinite</guid>
+      <link>http://lightbird.net/dbe/</link>
+      <dc:creator><![CDATA[outfinite]]></dc:creator>
+      <comments>http://www.delicious.com/url/f7a348bd6e7aa82da90f4da80012a16b</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/f7a348bd6e7aa82da90f4da80012a16b</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/outfinite">outfinite's bookmarks</source>
+      <category domain="http://www.delicious.com/outfinite/">tutorial</category>
+      <category domain="http://www.delicious.com/outfinite/">django</category>
+      <category domain="http://www.delicious.com/outfinite/">python</category>
+      <category domain="http://www.delicious.com/outfinite/">programming</category>
+      <category domain="http://www.delicious.com/outfinite/">web</category>
+      <category domain="http://www.delicious.com/outfinite/">web_development</category>
+    </item>
+    <item>
+      <title>disqus/overseer - GitHub</title>
+      <pubDate>Sun, 23 Jan 2011 00:20:10 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/4c36ba70de839370187745a39bb90fa6#clever.netman</guid>
+      <link>https://github.com/disqus/overseer/</link>
+      <dc:creator><![CDATA[clever.netman]]></dc:creator>
+      <comments>http://www.delicious.com/url/4c36ba70de839370187745a39bb90fa6</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/4c36ba70de839370187745a39bb90fa6</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/clever.netman">clever.netman's bookmarks</source>
+      <category domain="http://www.delicious.com/clever.netman/">django</category>
+      <category domain="http://www.delicious.com/clever.netman/">disqus</category>
+      <category domain="http://www.delicious.com/clever.netman/">dashboard</category>
+      <category domain="http://www.delicious.com/clever.netman/">python</category>
+      <category domain="http://www.delicious.com/clever.netman/">opensource</category>
+      <category domain="http://www.delicious.com/clever.netman/">app</category>
+    </item>
+    <item>
+      <title>nutshell — Lettuce v0.1.19 (barium release) documentation</title>
+      <pubDate>Sat, 22 Jan 2011 23:28:24 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/54d93dcef8c9f1c352a604af519e1e1e#amrok</guid>
+      <link>http://lettuce.it/</link>
+      <dc:creator><![CDATA[amrok]]></dc:creator>
+      <comments>http://www.delicious.com/url/54d93dcef8c9f1c352a604af519e1e1e</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/54d93dcef8c9f1c352a604af519e1e1e</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/amrok">amrok's bookmarks</source>
+      <category domain="http://www.delicious.com/amrok/">python</category>
+      <category domain="http://www.delicious.com/amrok/">testing</category>
+      <category domain="http://www.delicious.com/amrok/">programming</category>
+      <category domain="http://www.delicious.com/amrok/">django</category>
+      <category domain="http://www.delicious.com/amrok/">tool</category>
+    </item>
+    <item>
+      <title>Python deployment tips « Memory Dump</title>
+      <pubDate>Sat, 22 Jan 2011 22:53:02 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/c6d62d7cec12bf2cc510cbd120261696#christian.schmizz</guid>
+      <link>http://www.lorenzogil.com/blog/2010/10/29/python-deployment-tips/</link>
+      <dc:creator><![CDATA[christian.schmizz]]></dc:creator>
+      <comments>http://www.delicious.com/url/c6d62d7cec12bf2cc510cbd120261696</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/c6d62d7cec12bf2cc510cbd120261696</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/christian.schmizz">christian.schmizz's bookmarks</source>
+      <category domain="http://www.delicious.com/christian.schmizz/">python</category>
+      <category domain="http://www.delicious.com/christian.schmizz/">deployment</category>
+      <category domain="http://www.delicious.com/christian.schmizz/">django</category>
+      <category domain="http://www.delicious.com/christian.schmizz/">tips</category>
+    </item>
+    <item>
+      <title>Yashh // Django-syncr Internals</title>
+      <pubDate>Sat, 22 Jan 2011 22:09:27 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/2b266a574efb3987856bdedb74923443#joyping</guid>
+      <link>http://www.yashh.com/blog/2008/nov/30/django-syncr-internals/</link>
+      <dc:creator><![CDATA[joyping]]></dc:creator>
+      <comments>http://www.delicious.com/url/2b266a574efb3987856bdedb74923443</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/2b266a574efb3987856bdedb74923443</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/joyping">joyping's bookmarks</source>
+      <category domain="http://www.delicious.com/joyping/">devel</category>
+      <category domain="http://www.delicious.com/joyping/">python</category>
+      <category domain="http://www.delicious.com/joyping/">django</category>
+    </item>
+    <item>
+      <title>[projects] View of /python/trunk/Objects/dictnotes.txt</title>
+      <pubDate>Sat, 22 Jan 2011 22:03:15 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/aed7527845ea1f62d92a1ec35c757827#linssen</guid>
+      <link>http://svn.python.org/view/python/trunk/Objects/dictnotes.txt?revision=53782&amp;view=markup</link>
+      <dc:creator><![CDATA[linssen]]></dc:creator>
+      <comments>http://www.delicious.com/url/aed7527845ea1f62d92a1ec35c757827</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/aed7527845ea1f62d92a1ec35c757827</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/linssen">linssen's bookmarks</source>
+      <description>NOTES ON OPTIMIZING DICTIONARIES</description>
+      <category domain="http://www.delicious.com/linssen/">python</category>
+      <category domain="http://www.delicious.com/linssen/">django</category>
+    </item>
+    <item>
+      <title>AJAX in Django with jQuery | webcloud</title>
+      <pubDate>Sat, 22 Jan 2011 20:20:42 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/d16d47043f7293536224a23c5f074fa9#mbotos</guid>
+      <link>http://webcloud.se/log/AJAX-in-Django-with-jQuery/</link>
+      <dc:creator><![CDATA[mbotos]]></dc:creator>
+      <comments>http://www.delicious.com/url/d16d47043f7293536224a23c5f074fa9</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/d16d47043f7293536224a23c5f074fa9</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/mbotos">mbotos's bookmarks</source>
+      <category domain="http://www.delicious.com/mbotos/">django</category>
+      <category domain="http://www.delicious.com/mbotos/">ajax</category>
+      <category domain="http://www.delicious.com/mbotos/">jquery</category>
+      <category domain="http://www.delicious.com/mbotos/">tutorial</category>
+      <category domain="http://www.delicious.com/mbotos/">python</category>
+    </item>
+    <item>
+      <title>Python Package Index : django-social-auth 0.2.2</title>
+      <pubDate>Sat, 22 Jan 2011 20:02:48 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/2dd27929544576b245fdafc240ce5c52#reuteras</guid>
+      <link>http://pypi.python.org/pypi/django-social-auth</link>
+      <dc:creator><![CDATA[reuteras]]></dc:creator>
+      <comments>http://www.delicious.com/url/2dd27929544576b245fdafc240ce5c52</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/2dd27929544576b245fdafc240ce5c52</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/reuteras">reuteras's bookmarks</source>
+      <category domain="http://www.delicious.com/reuteras/">python</category>
+      <category domain="http://www.delicious.com/reuteras/">django</category>
+      <category domain="http://www.delicious.com/reuteras/">twitter</category>
+      <category domain="http://www.delicious.com/reuteras/">facebook</category>
+      <category domain="http://www.delicious.com/reuteras/">oauth</category>
+      <category domain="http://www.delicious.com/reuteras/">authentication</category>
+      <category domain="http://www.delicious.com/reuteras/">login</category>
+      <category domain="http://www.delicious.com/reuteras/">github</category>
+      <category domain="http://www.delicious.com/reuteras/">useful</category>
+    </item>
+    <item>
+      <title>Глава 2, раздел 2: DjangoBook по-русски | DjangoBook v2.0 beta</title>
+      <pubDate>Sat, 22 Jan 2011 19:44:58 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/4e4431679ce2f16dd78acdbab5360995#maravan</guid>
+      <link>http://djbook.ru/ch02s02.html</link>
+      <dc:creator><![CDATA[maravan]]></dc:creator>
+      <comments>http://www.delicious.com/url/4e4431679ce2f16dd78acdbab5360995</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/4e4431679ce2f16dd78acdbab5360995</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/maravan">maravan's bookmarks</source>
+      <category domain="http://www.delicious.com/maravan/">python</category>
+      <category domain="http://www.delicious.com/maravan/">django</category>
+    </item>
+  </channel>
+</rss>

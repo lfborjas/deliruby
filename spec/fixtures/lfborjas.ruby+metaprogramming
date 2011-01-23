@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/">
+  <channel>
+    <title>Delicious/lfborjas/ruby+metaprogramming</title>
+    <link>http://www.delicious.com/lfborjas/ruby+metaprogramming</link>
+    <description>bookmarks tagged ruby metaprogramming by lfborjas</description>
+    <atom:link rel="self" type="application/rss+xml" href="http://feeds.delicious.com/v2/xml/lfborjas/ruby+metaprogramming"/>
+    <item>
+      <title>lisp (vs ruby) metaprogramming</title>
+      <pubDate>Sat, 22 Jan 2011 00:49:26 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/0f5a00ff96a0b23e8bd191fa9a307377#lfborjas</guid>
+      <link>http://www.slideshare.net/antoniogarrote/lisp-vs-ruby-metaprogramming-3222908</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/0f5a00ff96a0b23e8bd191fa9a307377</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/0f5a00ff96a0b23e8bd191fa9a307377</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">lisp</category>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+      <category domain="http://www.delicious.com/lfborjas/">macros</category>
+    </item>
+    <item>
+      <title>Ruminations of a Programmer: Syntax Extensibility, Ruby Metaprogramming and Lisp Macros</title>
+      <pubDate>Sat, 22 Jan 2011 00:43:31 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/f23ad117303fe1dd023912303e65d721#lfborjas</guid>
+      <link>http://debasishg.blogspot.com/2007/01/syntax-extensibility-ruby.html</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/f23ad117303fe1dd023912303e65d721</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/f23ad117303fe1dd023912303e65d721</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">java</category>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">lisp</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>raganwald/rewrite_rails - GitHub</title>
+      <pubDate>Thu, 30 Dec 2010 09:43:11 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/677d11ecfcf4a8af67dbe8cb9d038f00#lfborjas</guid>
+      <link>https://github.com/raganwald/rewrite_rails</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/677d11ecfcf4a8af67dbe8cb9d038f00</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/677d11ecfcf4a8af67dbe8cb9d038f00</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">rails</category>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>2009-10-08/metalinguistic.md at master from raganwald's homoiconic - GitHub</title>
+      <pubDate>Thu, 30 Dec 2010 09:38:26 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/a5a322920dafa0d359e2b59f85a69834#lfborjas</guid>
+      <link>https://github.com/raganwald/homoiconic/blob/master/2009-10-08/metalinguistic.md#readme</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/a5a322920dafa0d359e2b59f85a69834</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/a5a322920dafa0d359e2b59f85a69834</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>chalain: Turtles!</title>
+      <pubDate>Sun, 19 Dec 2010 02:36:26 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/0ada757e07dc7c32d5c67453b334d0e3#lfborjas</guid>
+      <link>http://chalain.livejournal.com/66798.html</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/0ada757e07dc7c32d5c67453b334d0e3</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/0ada757e07dc7c32d5c67453b334d0e3</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+      <category domain="http://www.delicious.com/lfborjas/">lazy-evaluation</category>
+    </item>
+    <item>
+      <title>rewrite</title>
+      <pubDate>Sun, 19 Dec 2010 02:32:09 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/4704d9392fffaa3c04c1b753e293e4d7#lfborjas</guid>
+      <link>http://rewrite.rubyforge.org/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/4704d9392fffaa3c04c1b753e293e4d7</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/4704d9392fffaa3c04c1b753e293e4d7</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">functional-programming</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>treetop.rubyforge.org</title>
+      <pubDate>Mon, 06 Dec 2010 05:22:00 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/ef4cbc4e9da9ae1439b0ada9b9f4e856#lfborjas</guid>
+      <link>http://treetop.rubyforge.org/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/ef4cbc4e9da9ae1439b0ada9b9f4e856</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/ef4cbc4e9da9ae1439b0ada9b9f4e856</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">nlp</category>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">dsl</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>How do I build DSLs with yield and instance_eval?</title>
+      <pubDate>Mon, 06 Dec 2010 05:20:59 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/fcb0c51a2d1b1810ae847fc4c5ed3fe4#lfborjas</guid>
+      <link>http://rubylearning.com/blog/2010/11/30/how-do-i-build-dsls-with-yield-and-instance_eval/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/fcb0c51a2d1b1810ae847fc4c5ed3fe4</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fcb0c51a2d1b1810ae847fc4c5ed3fe4</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">dsl</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>Rails Talk instance_eval vs class_eval in Ruby (Part 1)</title>
+      <pubDate>Thu, 25 Nov 2010 02:54:09 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/96c2c4294808e4a76459212b683c1715#lfborjas</guid>
+      <link>http://railstalk.com/2010/1/8/instance_eval-vs-class_eval-in-ruby</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/96c2c4294808e4a76459212b683c1715</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/96c2c4294808e4a76459212b683c1715</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">progra4</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+    </item>
+    <item>
+      <title>Fun with Ruby’s instance_eval and class_eval « I like stuff.</title>
+      <pubDate>Thu, 25 Nov 2010 02:52:22 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/05457f6d768fba4be89dc867d191c58b#lfborjas</guid>
+      <link>http://ilikestuffblog.com/2009/01/09/fun-with-rubys-instance_eval-and-class_eval/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/05457f6d768fba4be89dc867d191c58b</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/05457f6d768fba4be89dc867d191c58b</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">reflection</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>Metaprogramming in Ruby: It’s All About the Self « Katz Got Your Tongue?</title>
+      <pubDate>Wed, 24 Nov 2010 23:19:03 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/58644b8ca1ae2650b55f43e5ab7dc51e#lfborjas</guid>
+      <link>http://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/58644b8ca1ae2650b55f43e5ab7dc51e</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/58644b8ca1ae2650b55f43e5ab7dc51e</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <description>Metaprogramming</description>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>Specifying default values with Ruby's attr_reader and attr_accessor [ruby] [accessor] [di] [attribute] [getter] [setter] [dependency] [injection]</title>
+      <pubDate>Mon, 18 Oct 2010 23:12:15 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/94b9f54b13d28277bd20f4b07ceb07d9#lfborjas</guid>
+      <link>http://snippets.dzone.com/posts/show/4382</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/94b9f54b13d28277bd20f4b07ceb07d9</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/94b9f54b13d28277bd20f4b07ceb07d9</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>define_method in Ruby</title>
+      <pubDate>Mon, 18 Oct 2010 23:12:06 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/484e711c88ac9972aa12257f7c00372b#lfborjas</guid>
+      <link>http://www.raulparolari.com/Ruby2/define_method</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/484e711c88ac9972aa12257f7c00372b</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/484e711c88ac9972aa12257f7c00372b</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>Implementing Ruby attr_accessor</title>
+      <pubDate>Mon, 18 Oct 2010 23:11:58 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/5baf5667eefad94b69f2c5d252ad87f0#lfborjas</guid>
+      <link>http://www.raulparolari.com/Ruby2/attr_accessor</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/5baf5667eefad94b69f2c5d252ad87f0</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/5baf5667eefad94b69f2c5d252ad87f0</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>Do YOU know Ruby’s ‘Chainsaw’ method?</title>
+      <pubDate>Thu, 07 Oct 2010 01:28:25 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/01a547a54cf2dad6337190369b45c2dc#lfborjas</guid>
+      <link>http://rubylearning.com/blog/2010/10/07/do-you-know-rubys-chainsaw-method/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/01a547a54cf2dad6337190369b45c2dc</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/01a547a54cf2dad6337190369b45c2dc</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">method_missing</category>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+  </channel>
+</rss>

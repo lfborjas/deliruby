@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/">
+  <channel>
+    <title>Delicious/network/lfborjas</title>
+    <link>http://www.delicious.com/network/lfborjas</link>
+    <description>items bookmarked by users listed as contacts for lfborjas</description>
+    <atom:link rel="self" type="application/rss+xml" href="http://feeds.delicious.com/v2/xml/network/lfborjas/ruby+rails"/>
+    <item>
+      <title>[from rbreve] Ruby5 - The Latest News in the Ruby and Rails Community</title>
+      <pubDate>Sun, 26 Dec 2010 09:22:18 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/e8a0c87ec90976190b86e85c00d60f6a#rbreve</guid>
+      <link>http://ruby5.envylabs.com/</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/e8a0c87ec90976190b86e85c00d60f6a</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/e8a0c87ec90976190b86e85c00d60f6a</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">podcast</category>
+      <category domain="http://www.delicious.com/rbreve/">rubyonrails</category>
+    </item>
+    <item>
+      <title>[from rbreve] Hackido: Install Ruby Rails on Ubuntu 9.04 Jaunty Jackalope</title>
+      <pubDate>Wed, 15 Sep 2010 08:36:34 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/c1369e55fe00483e57046d4c7b41e383#rbreve</guid>
+      <link>http://www.hackido.com/2009/04/install-ruby-rails-on-ubuntu-904-jaunty.html</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/c1369e55fe00483e57046d4c7b41e383</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/c1369e55fe00483e57046d4c7b41e383</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">rubyonrails</category>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">deployment</category>
+    </item>
+    <item>
+      <title>[from rbreve] Sessions in MongoDB using MongoMapper and Devise « john wyles dot com</title>
+      <pubDate>Thu, 15 Apr 2010 19:27:48 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/2c52ddc263356e67a007716864dea8b5#rbreve</guid>
+      <link>http://johnwyles.com/2010/03/15/sessions-in-mongodb-using-mongomapper-and-devise/</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/2c52ddc263356e67a007716864dea8b5</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/2c52ddc263356e67a007716864dea8b5</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">mongodb</category>
+      <category domain="http://www.delicious.com/rbreve/">sessions</category>
+    </item>
+    <item>
+      <title>[from rbreve] Performance Tuning for Phusion Passenger (an Introduction) - Alfa Jango Blog » Blog Archive</title>
+      <pubDate>Tue, 02 Mar 2010 07:19:43 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/d31141d3a7143fbd46795f4ea855e29e#rbreve</guid>
+      <link>http://www.alfajango.com/blog/performance-tuning-for-phusion-passenger-an-introduction/</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/d31141d3a7143fbd46795f4ea855e29e</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/d31141d3a7143fbd46795f4ea855e29e</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">rubyonrails</category>
+      <category domain="http://www.delicious.com/rbreve/">performance</category>
+      <category domain="http://www.delicious.com/rbreve/">server</category>
+      <category domain="http://www.delicious.com/rbreve/">deployment</category>
+      <category domain="http://www.delicious.com/rbreve/">optimization</category>
+    </item>
+    <item>
+      <title>[from rbreve] Rubular: a Ruby regular expression editor and tester</title>
+      <pubDate>Fri, 19 Feb 2010 08:14:23 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/8c4cc43caf1af96e9d4e9f0b175a20c9#rbreve</guid>
+      <link>http://rubular.com/</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/8c4cc43caf1af96e9d4e9f0b175a20c9</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/8c4cc43caf1af96e9d4e9f0b175a20c9</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">programming</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">web</category>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">rubyonrails</category>
+    </item>
+    <item>
+      <title>[from rbreve] Hosting for an agile web - WebFaction</title>
+      <pubDate>Fri, 04 Jul 2008 05:37:12 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/4c4f67a60c62d59bb8b820d360de5e98#rbreve</guid>
+      <link>http://www.webfaction.com/</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/4c4f67a60c62d59bb8b820d360de5e98</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/4c4f67a60c62d59bb8b820d360de5e98</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">hosting</category>
+      <category domain="http://www.delicious.com/rbreve/">python</category>
+      <category domain="http://www.delicious.com/rbreve/">django</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">web</category>
+      <category domain="http://www.delicious.com/rbreve/">webhosting</category>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">plone</category>
+    </item>
+    <item>
+      <title>[from rbreve] Liverail Tutorial on developing a Facebook platform application with Ruby On Rails</title>
+      <pubDate>Sat, 21 Jun 2008 08:10:12 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/99c8a4ffd9c5962881708e4796101f6e#rbreve</guid>
+      <link>http://www.liverail.net/articles/2007/6/29/tutorial-on-developing-a-facebook-platform-application-with-ruby-on-rails</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/99c8a4ffd9c5962881708e4796101f6e</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/99c8a4ffd9c5962881708e4796101f6e</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">facebook</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">tutorial</category>
+      <category domain="http://www.delicious.com/rbreve/">rubyonrails</category>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+    </item>
+    <item>
+      <title>[from rbreve] Ruby’s not ready - glyphobet • глыфобет • γλυφοβετ</title>
+      <pubDate>Tue, 08 Apr 2008 10:41:46 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/392aaa096eff56a76a63efe84f9905d7#rbreve</guid>
+      <link>http://glyphobet.net/blog/essay/228</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/392aaa096eff56a76a63efe84f9905d7</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/392aaa096eff56a76a63efe84f9905d7</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">python</category>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">programming</category>
+      <category domain="http://www.delicious.com/rbreve/">comparison</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">essay</category>
+    </item>
+    <item>
+      <title>[from rbreve] Ruby on Rails Plugins - Agile Web Development</title>
+      <pubDate>Wed, 02 Apr 2008 09:39:52 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/3377537a53bba3ca8ce09fe266857d27#rbreve</guid>
+      <link>http://agilewebdevelopment.com/plugins</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/3377537a53bba3ca8ce09fe266857d27</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/3377537a53bba3ca8ce09fe266857d27</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">plugins</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">rubyonrails</category>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">programming</category>
+      <category domain="http://www.delicious.com/rbreve/">directory</category>
+      <category domain="http://www.delicious.com/rbreve/">development</category>
+      <category domain="http://www.delicious.com/rbreve/">plugin</category>
+      <category domain="http://www.delicious.com/rbreve/">gems</category>
+    </item>
+    <item>
+      <title>[from rbreve] rails search benchmarks :: snax</title>
+      <pubDate>Mon, 24 Mar 2008 05:59:14 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/e7a1a0e5d8806fc0e7b9a93d93b00153#rbreve</guid>
+      <link>http://blog.evanweaver.com/articles/2008/03/17/rails-search-benchmarks/</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/e7a1a0e5d8806fc0e7b9a93d93b00153</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/e7a1a0e5d8806fc0e7b9a93d93b00153</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">search</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">ferret</category>
+      <category domain="http://www.delicious.com/rbreve/">sphinx</category>
+      <category domain="http://www.delicious.com/rbreve/">solr</category>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">performance</category>
+    </item>
+    <item>
+      <title>[from rbreve] FeedTools</title>
+      <pubDate>Tue, 18 Mar 2008 04:43:04 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/d330b9e58a777d42c55eb94ac0a71a74#rbreve</guid>
+      <link>http://sporkmonger.com/projects/feedtools/</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/d330b9e58a777d42c55eb94ac0a71a74</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/d330b9e58a777d42c55eb94ac0a71a74</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">rss</category>
+      <category domain="http://www.delicious.com/rbreve/">atom</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">library</category>
+      <category domain="http://www.delicious.com/rbreve/">rubyonrails</category>
+    </item>
+    <item>
+      <title>[from rbreve] Bamboo Blog - Google's OpenSocial with Ruby on Rails</title>
+      <pubDate>Thu, 13 Mar 2008 21:58:11 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/f389036254808bd73c68aaaeb97abbbc#rbreve</guid>
+      <link>http://blog.new-bamboo.co.uk/2007/11/7/opensocial-with-ruby-on-rails</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/f389036254808bd73c68aaaeb97abbbc</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/f389036254808bd73c68aaaeb97abbbc</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">opensocial</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">rubyonrails</category>
+      <category domain="http://www.delicious.com/rbreve/">google</category>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">plugin</category>
+      <category domain="http://www.delicious.com/rbreve/">api</category>
+      <category domain="http://www.delicious.com/rbreve/">web2.0</category>
+    </item>
+    <item>
+      <title>[from rbreve] Thin - yet another web server</title>
+      <pubDate>Fri, 29 Feb 2008 17:34:40 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/c82c30802a4a96c2831aae96073599d5#rbreve</guid>
+      <link>http://code.macournoyer.com/thin/</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/c82c30802a4a96c2831aae96073599d5</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/c82c30802a4a96c2831aae96073599d5</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">server</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">mongrel</category>
+      <category domain="http://www.delicious.com/rbreve/">thin</category>
+      <category domain="http://www.delicious.com/rbreve/">web</category>
+      <category domain="http://www.delicious.com/rbreve/">deployment</category>
+      <category domain="http://www.delicious.com/rbreve/">rubyonrails</category>
+    </item>
+    <item>
+      <title>[from rbreve] Lucas Carlson</title>
+      <pubDate>Mon, 18 Feb 2008 23:00:44 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/fe0c8713f62846f3c06be958d92c618a#rbreve</guid>
+      <link>http://rufy.com/</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/fe0c8713f62846f3c06be958d92c618a</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fe0c8713f62846f3c06be958d92c618a</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">blog</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+      <category domain="http://www.delicious.com/rbreve/">gems</category>
+      <category domain="http://www.delicious.com/rbreve/">programming</category>
+      <category domain="http://www.delicious.com/rbreve/">projects</category>
+    </item>
+    <item>
+      <title>[from rbreve] scRUBYt! - a Simple to Learn and Use, yet Powerful Web Scraping Toolkit Written in Ruby</title>
+      <pubDate>Mon, 18 Feb 2008 16:51:30 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/b161a73f9dd30e2f1241fe3683aabe93#rbreve</guid>
+      <link>http://scrubyt.org/</link>
+      <dc:creator><![CDATA[rbreve]]></dc:creator>
+      <comments>http://www.delicious.com/url/b161a73f9dd30e2f1241fe3683aabe93</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/b161a73f9dd30e2f1241fe3683aabe93</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rbreve">rbreve's bookmarks</source>
+      <category domain="http://www.delicious.com/rbreve/">ruby</category>
+      <category domain="http://www.delicious.com/rbreve/">scraping</category>
+      <category domain="http://www.delicious.com/rbreve/">screenscraping</category>
+      <category domain="http://www.delicious.com/rbreve/">web</category>
+      <category domain="http://www.delicious.com/rbreve/">library</category>
+      <category domain="http://www.delicious.com/rbreve/">html</category>
+      <category domain="http://www.delicious.com/rbreve/">scrape</category>
+      <category domain="http://www.delicious.com/rbreve/">rails</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/">
+  <channel>
+    <title>Delicious/lfborjas</title>
+    <link>http://www.delicious.com/lfborjas</link>
+    <description>bookmarks posted by lfborjas</description>
+    <atom:link rel="self" type="application/rss+xml" href="http://feeds.delicious.com/v2/xml/lfborjas"/>
+    <item>
+      <title>The Alternative History of Public-Key Cryptography</title>
+      <pubDate>Sat, 22 Jan 2011 22:12:51 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/d020d2684c70527586ac217a77bcc23a#lfborjas</guid>
+      <link>http://cryptome.org/ukpk-alt.htm</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/d020d2684c70527586ac217a77bcc23a</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/d020d2684c70527586ac217a77bcc23a</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">security</category>
+      <category domain="http://www.delicious.com/lfborjas/">criptography</category>
+    </item>
+    <item>
+      <title>JSR 292 Goodness: named parameters | Java.net</title>
+      <pubDate>Sat, 22 Jan 2011 20:35:51 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/23230c0aabd1098eef2d1a847fb6038d#lfborjas</guid>
+      <link>http://weblogs.java.net/blog/forax/archive/2011/01/21/jsr-292-goodness-named-parameters</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/23230c0aabd1098eef2d1a847fb6038d</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/23230c0aabd1098eef2d1a847fb6038d</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">java</category>
+      <category domain="http://www.delicious.com/lfborjas/">programming-languages</category>
+    </item>
+    <item>
+      <title>Writing Forwards Compatible Python Code | Armin Ronacher's Thoughts and Writings</title>
+      <pubDate>Sat, 22 Jan 2011 20:35:20 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/c6fb2679bca6c193a41d92513f7edca1#lfborjas</guid>
+      <link>http://lucumr.pocoo.org/2011/1/22/forwards-compatible-python/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/c6fb2679bca6c193a41d92513f7edca1</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/c6fb2679bca6c193a41d92513f7edca1</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">python</category>
+      <category domain="http://www.delicious.com/lfborjas/">unicode</category>
+      <category domain="http://www.delicious.com/lfborjas/">python3</category>
+    </item>
+    <item>
+      <title>TimeComplexity - PythonInfo Wiki</title>
+      <pubDate>Sat, 22 Jan 2011 20:32:51 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/d615e7b8f04ea5b597254869586cc9a3#lfborjas</guid>
+      <link>http://wiki.python.org/moin/TimeComplexity</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/d615e7b8f04ea5b597254869586cc9a3</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/d615e7b8f04ea5b597254869586cc9a3</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">python</category>
+      <category domain="http://www.delicious.com/lfborjas/">data-structures</category>
+      <category domain="http://www.delicious.com/lfborjas/">algorithms</category>
+      <category domain="http://www.delicious.com/lfborjas/">computer-science</category>
+    </item>
+    <item>
+      <title>Unintelligible » One line Ruby memoization</title>
+      <pubDate>Sat, 22 Jan 2011 10:41:18 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/5888af04500acaddba9eee78c0a1ce64#lfborjas</guid>
+      <link>http://unintelligible.org/blog/2007/08/16/one-line-ruby-memoization/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/5888af04500acaddba9eee78c0a1ce64</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/5888af04500acaddba9eee78c0a1ce64</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">memoization</category>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">functional-programming</category>
+    </item>
+    <item>
+      <title>Python, the Web and Little Things on my Mind | Armin Ronacher's Thoughts and Writings</title>
+      <pubDate>Sat, 22 Jan 2011 04:15:04 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/778cb316908f7bba71e9507e4701f357#lfborjas</guid>
+      <link>http://lucumr.pocoo.org/2011/1/22/python-the-web-and-little-things/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/778cb316908f7bba71e9507e4701f357</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/778cb316908f7bba71e9507e4701f357</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">python</category>
+      <category domain="http://www.delicious.com/lfborjas/">webdev</category>
+      <category domain="http://www.delicious.com/lfborjas/">python3</category>
+    </item>
+    <item>
+      <title>lisp (vs ruby) metaprogramming</title>
+      <pubDate>Sat, 22 Jan 2011 00:49:26 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/0f5a00ff96a0b23e8bd191fa9a307377#lfborjas</guid>
+      <link>http://www.slideshare.net/antoniogarrote/lisp-vs-ruby-metaprogramming-3222908</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/0f5a00ff96a0b23e8bd191fa9a307377</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/0f5a00ff96a0b23e8bd191fa9a307377</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">lisp</category>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+      <category domain="http://www.delicious.com/lfborjas/">macros</category>
+    </item>
+    <item>
+      <title>Ruminations of a Programmer: Syntax Extensibility, Ruby Metaprogramming and Lisp Macros</title>
+      <pubDate>Sat, 22 Jan 2011 00:43:31 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/f23ad117303fe1dd023912303e65d721#lfborjas</guid>
+      <link>http://debasishg.blogspot.com/2007/01/syntax-extensibility-ruby.html</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/f23ad117303fe1dd023912303e65d721</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/f23ad117303fe1dd023912303e65d721</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">java</category>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">lisp</category>
+      <category domain="http://www.delicious.com/lfborjas/">metaprogramming</category>
+    </item>
+    <item>
+      <title>disqus/overseer - GitHub</title>
+      <pubDate>Sat, 22 Jan 2011 00:31:13 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/5552b84cdcd752bde5349909fe3e3fa9#lfborjas</guid>
+      <link>https://github.com/disqus/overseer</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/5552b84cdcd752bde5349909fe3e3fa9</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/5552b84cdcd752bde5349909fe3e3fa9</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">django</category>
+      <category domain="http://www.delicious.com/lfborjas/">python</category>
+      <category domain="http://www.delicious.com/lfborjas/">deployment</category>
+    </item>
+    <item>
+      <title>We Believe A Lot, But Can Prove Little « Gödel’s Lost Letter and P=NP</title>
+      <pubDate>Sat, 22 Jan 2011 00:10:28 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/87eef3f63ba097bacfe89734071f043d#lfborjas</guid>
+      <link>http://rjlipton.wordpress.com/2011/01/19/we-believe-a-lot-but-can-prove-little/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/87eef3f63ba097bacfe89734071f043d</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/87eef3f63ba097bacfe89734071f043d</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">quantum</category>
+      <category domain="http://www.delicious.com/lfborjas/">math</category>
+      <category domain="http://www.delicious.com/lfborjas/">computer-science</category>
+    </item>
+    <item>
+      <title>Seven Things: Home</title>
+      <pubDate>Sat, 22 Jan 2011 00:07:17 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/e9bb9fe943d7b851dbe851afb405147b#lfborjas</guid>
+      <link>http://seventhings.liftweb.net/index</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/e9bb9fe943d7b851dbe851afb405147b</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/e9bb9fe943d7b851dbe851afb405147b</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">lift</category>
+      <category domain="http://www.delicious.com/lfborjas/">scala</category>
+      <category domain="http://www.delicious.com/lfborjas/">webdev</category>
+      <category domain="http://www.delicious.com/lfborjas/">framework</category>
+    </item>
+    <item>
+      <title>Configuring Vim right – items.sjbach.com</title>
+      <pubDate>Sat, 22 Jan 2011 00:06:58 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/ec8d52cd27fea8eefb84993caa78e4a7#lfborjas</guid>
+      <link>http://items.sjbach.com/319/configuring-vim-right</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/ec8d52cd27fea8eefb84993caa78e4a7</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/ec8d52cd27fea8eefb84993caa78e4a7</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">vim</category>
+    </item>
+    <item>
+      <title>railsready: Setup script to get Ruby and Rails running on Ubuntu with one command - The Changelog - Open Source moves fast. Keep up.</title>
+      <pubDate>Sat, 22 Jan 2011 00:06:14 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/e62cbb12e40be358d9a35c050ee1dc4e#lfborjas</guid>
+      <link>http://thechangelog.com/post/2857400260/railsready-setup-script-to-get-ruby-and-rails-running</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/e62cbb12e40be358d9a35c050ee1dc4e</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/e62cbb12e40be358d9a35c050ee1dc4e</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">rails</category>
+      <category domain="http://www.delicious.com/lfborjas/">ruby</category>
+      <category domain="http://www.delicious.com/lfborjas/">scripting</category>
+    </item>
+    <item>
+      <title>daverecycles.com : Heroku Hacked? Dissecting Heroku's Critical Security Flaw</title>
+      <pubDate>Sat, 22 Jan 2011 00:04:40 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/70147c3ab58cf37b387651b507574b2d#lfborjas</guid>
+      <link>http://daverecycles.com/post/2858880862/heroku-hacked-dissecting-herokus-critical-security</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/70147c3ab58cf37b387651b507574b2d</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/70147c3ab58cf37b387651b507574b2d</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">virtualization</category>
+      <category domain="http://www.delicious.com/lfborjas/">servers</category>
+      <category domain="http://www.delicious.com/lfborjas/">security</category>
+    </item>
+    <item>
+      <title>DotCloud</title>
+      <pubDate>Fri, 21 Jan 2011 06:40:37 +0000</pubDate>
+      <guid isPermaLink="false">http://www.delicious.com/url/8a74c16a7619913c0cc0ee5f3c82ac5c#lfborjas</guid>
+      <link>http://www.dotcloud.com/</link>
+      <dc:creator><![CDATA[lfborjas]]></dc:creator>
+      <comments>http://www.delicious.com/url/8a74c16a7619913c0cc0ee5f3c82ac5c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/8a74c16a7619913c0cc0ee5f3c82ac5c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lfborjas">lfborjas's bookmarks</source>
+      <category domain="http://www.delicious.com/lfborjas/">cloud-computing</category>
+      <category domain="http://www.delicious.com/lfborjas/">deployment</category>
+    </item>
+  </channel>
+</rss>

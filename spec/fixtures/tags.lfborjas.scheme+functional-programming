@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/">
+  <channel>
+    <title>Delicious/tags/lfborjas</title>
+    <link>http://www.delicious.com/tags/lfborjas</link>
+    <description>tags used by lfborjas in bookmarks</description>
+    <atom:link rel="self" type="application/rss+xml" href="http://feeds.delicious.com/v2/xml/tags/lfborjas/scheme+functional-programming"/>
+    <item>
+      <title>compiladores</title>
+      <guid>http://www.delicious.com/lfborjas/compiladores</guid>
+      <description>1</description>
+    </item>
+    <item>
+      <title>compilers</title>
+      <guid>http://www.delicious.com/lfborjas/compilers</guid>
+      <description>1</description>
+    </item>
+    <item>
+      <title>continuations</title>
+      <guid>http://www.delicious.com/lfborjas/continuations</guid>
+      <description>1</description>
+    </item>
+    <item>
+      <title>javascript</title>
+      <guid>http://www.delicious.com/lfborjas/javascript</guid>
+      <description>1</description>
+    </item>
+    <item>
+      <title>oop</title>
+      <guid>http://www.delicious.com/lfborjas/oop</guid>
+      <description>1</description>
+    </item>
+    <item>
+      <title>programming</title>
+      <guid>http://www.delicious.com/lfborjas/programming</guid>
+      <description>1</description>
+    </item>
+    <item>
+      <title>programming-languages</title>
+      <guid>http://www.delicious.com/lfborjas/programming-languages</guid>
+      <description>2</description>
+    </item>
+    <item>
+      <title>racket</title>
+      <guid>http://www.delicious.com/lfborjas/racket</guid>
+      <description>1</description>
+    </item>
+    <item>
+      <title>y-combinator</title>
+      <guid>http://www.delicious.com/lfborjas/y-combinator</guid>
+      <description>1</description>
+    </item>
+  </channel>
+</rss>
